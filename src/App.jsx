@@ -1,7 +1,7 @@
 
 import { useEffect, useState } from 'react';
 import Input from './input'
-import Card from './card'
+import Card from './Card';
 import axios from 'axios';
 
 
